@@ -21,3 +21,16 @@ The insights will support data-driven strategies to optimize growth, efficiency,
 - What is the percentage of sales by outlet size?
 - How are sales distributed across different outlet locations?
 - How do all KPIs vary by outlet type?
+-<a href="https://github.com/jayachandra-putti/Blnkit-analysis/commit/de6dbdb22a2b7c86c4a91baee5a949d5588103a4">View Dashboard</a>
+## process:
+- Define business requirements and identify key KPIs (Total Sales, Average Sales, Number of Items, Average Rating).
+- Collect, clean, and validate sales, outlet, and customer rating data for accuracy.
+- Build data models in Power BI linking items, outlets, and performance metrics.
+- Create visualizations (bar, pie, map, matrix) to represent KPIs across dimensions.
+- Analyze trends by product attributes, outlet characteristics, and customer ratings.
+- Derive insights to optimize inventory, improve customer satisfaction, and guide strategic decisions.
+- ## final conclusion
+- Blinkit’s sales analysis highlights clear patterns across item types, fat content, and outlet performance.
+Customer satisfaction metrics like ratings strongly align with higher sales, guiding inventory and outlet strategies.
+Optimizing by outlet size, location, and establishment age can unlock growth opportunities and improve efficiency.
+
